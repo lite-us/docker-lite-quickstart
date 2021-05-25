@@ -1,4 +1,4 @@
-# Tron Quickstart (Docker image)
+# Lite Quickstart (Docker image)
 
 __The purpose of it is to set up a complete private network for Tron development.__
 
